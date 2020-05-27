@@ -1,0 +1,19 @@
+{
+  "name": "svelte-bug-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@rollup/plugin-node-resolve": "^8.0.0",
+    "rollup": "^2.10.9",
+    "rollup-plugin-svelte": "^5.2.2",
+    "svelte": "^3.23.0",
+    "tape": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
